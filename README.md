@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# simple-eda app
 
 Description of the app ...
 
